@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/updatedMarvel/static/css/main.a419c058.chunk.css",
+    "main.js": "/updatedMarvel/static/js/main.477335c4.chunk.js",
+    "main.js.map": "/updatedMarvel/static/js/main.477335c4.chunk.js.map",
+    "runtime-main.js": "/updatedMarvel/static/js/runtime-main.211dd3b1.js",
+    "runtime-main.js.map": "/updatedMarvel/static/js/runtime-main.211dd3b1.js.map",
+    "static/js/2.9e0077be.chunk.js": "/updatedMarvel/static/js/2.9e0077be.chunk.js",
+    "static/js/2.9e0077be.chunk.js.map": "/updatedMarvel/static/js/2.9e0077be.chunk.js.map",
+    "static/js/3.b2637043.chunk.js": "/updatedMarvel/static/js/3.b2637043.chunk.js",
+    "static/js/3.b2637043.chunk.js.map": "/updatedMarvel/static/js/3.b2637043.chunk.js.map",
+    "index.html": "/updatedMarvel/index.html",
+    "static/css/main.a419c058.chunk.css.map": "/updatedMarvel/static/css/main.a419c058.chunk.css.map",
+    "static/js/2.9e0077be.chunk.js.LICENSE.txt": "/updatedMarvel/static/js/2.9e0077be.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/updatedMarvel/static/media/shield.561f55c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.211dd3b1.js",
+    "static/js/2.9e0077be.chunk.js",
+    "static/css/main.a419c058.chunk.css",
+    "static/js/main.477335c4.chunk.js"
+  ]
+}
